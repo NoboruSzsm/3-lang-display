@@ -1,4 +1,4 @@
-Illust Search by Tags v.1.0
+3-lang-display v.1.0
 
 =====================================
 Table of Contents
